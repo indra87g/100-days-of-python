@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Login</h2>
+<form method="POST">
+    <div class="custome-input">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username">
+    </div>
+  <br>
+  <div class="custome-input">
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password">
+  </div>
+  <br>
+  <button class="login" type="submit">Register</button>
+  <div class="links">
+    <a href="{{ url_for('index') }}">Home</a>
+    {% if 'user_id' in session %}
+    <a href="{{ url_for('logout') }}">Logout</a>
+    {% else %}
+    <a href="{{ url_for('login') }}">Login</a>
+    <a href="{{ url_for('register') }}">Register</a>
+    {% endif %}
+  </div>
+</form>
+{% endblock %}
