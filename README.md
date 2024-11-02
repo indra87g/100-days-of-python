@@ -7,11 +7,8 @@ I challange myself to make 1 python program in 1 day for 100 days. This challang
 ## Challange Status
 * Started in: 13 July 2024
 * Ended in: 
-* Progress: 16/100 (16%)
+* Progress: 22/100 (22%)
 * Total line of code: 1099
-* 3rd party Library/Framework used:
-  * Flask
-  * Click
 
 ## Project List
 
@@ -31,6 +28,12 @@ I challange myself to make 1 python program in 1 day for 100 days. This challang
 14. Tkinter Color Toggler
 15. Human Survival Simulator
 16. Flask Auth
+17. RabbitMQ Notification Queue
+18. Tkinter Lucky Spin
+19. Github Repo Info
+20. Fernet Encrypt and Decrypt
+21. QRCode Generator
+22. Tkinter AI Rock Paper Scissor
 
 ## Contribute
 
