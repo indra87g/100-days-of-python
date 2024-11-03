@@ -4,11 +4,13 @@ I challange myself to make 1 python program in 1 day for 100 days. This challang
 
 > Pssst... If this repository have 100 stars, i will continue this challange for 125 days.
 
+> November 2024: This is my first time joining NNN - Nonstop Ngoding November. Ngoding is mean Coding in Indonesia.
+
 ## Challange Status
 * Started in: 13 July 2024
 * Ended in: 
-* Progress: 22/100 (22%)
-* Total line of code: 1099
+* Progress: 24/100 (24%)
+* Total line of code: 1653
 
 ## Project List
 
@@ -34,6 +36,8 @@ I challange myself to make 1 python program in 1 day for 100 days. This challang
 20. Fernet Encrypt and Decrypt
 21. QRCode Generator
 22. Tkinter AI Rock Paper Scissor
+23. PyBlog CLI
+24. Shop with Membership
 
 ## Contribute
 
