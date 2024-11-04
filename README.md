@@ -9,8 +9,8 @@ I challange myself to make 1 python program in 1 day for 100 days. This challang
 ## Challange Status
 * Started in: 13 July 2024
 * Ended in: 
-* Progress: 24/100 (24%)
-* Total line of code: 1653
+* Progress: 25/100 (25%)
+* Total line of code: 1707s
 
 ## Project List
 
@@ -38,6 +38,7 @@ I challange myself to make 1 python program in 1 day for 100 days. This challang
 22. Tkinter AI Rock Paper Scissor
 23. PyBlog CLI
 24. Shop with Membership
+25. Planetary Motion Simulator
 
 ## Contribute
 
